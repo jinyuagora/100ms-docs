@@ -44,7 +44,7 @@ In the example below, the role is configured to publish 720p with 3 simulcast la
 - `h` for half with scale down factor of 2 (= 360p)
 - `q` for quarter with scale down factor of 4 (= 180p)
 
-<code>
+```js
 {
     "publishParams": {
         ...
@@ -75,7 +75,7 @@ In the example below, the role is configured to publish 720p with 3 simulcast la
         }
     }
 }
-</code>
+```
 
 ### Subscribe-side behavior
 
